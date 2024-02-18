@@ -11,3 +11,5 @@
 
 void *mymalloc(unsigned int size, char *FILE, int LINE);
 void myfree(void *z, char *FILE, int LINE);
+
+#endif
